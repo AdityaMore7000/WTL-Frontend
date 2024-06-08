@@ -1,4 +1,6 @@
-# WTL-Frontend
+# [WTL-Frontend](https://wtl-frontend.vercel.app/)
+
+![Landing Page](assets/a.png)
 
 ## Description
   Pet-Reunite is a web application designed to help reunite lost pets with their owners. Users can register found pets,        search for lost pets, and share success stories of reunited pets. This repository contains the frontend part of the     
@@ -49,6 +51,12 @@ Open your browser and navigate to http://localhost:5173
 ### Share Success Stories: 
 
   Happy users can mail their success stories to be shared in the "Success Stories" tab.
+
+## Screenshots
+
+![b](assets/b.png)
+___
+![c](assets/c.png)
     
 ## Contributing
 
@@ -75,7 +83,7 @@ Open your browser and navigate to http://localhost:5173
 ## Contact
 
 - Kedar Pawar - pawarkedar363@gmail.com
-- Samarth Mali - 
-- Aditya More - 
+- Samarth Mali - samarthmali1100@gmail.com
+- Aditya More - adi.more7000@gmail.com
 
 Project Link: https://wtl-frontend.vercel.app/
